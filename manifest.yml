@@ -1,0 +1,8 @@
+---
+name: Openstack via Coder
+category: Interactive Apps
+subcategory: Servers
+role: batch_connect
+description: |
+  This is a multi-line description that will be shown throughout the
+  dashboard.

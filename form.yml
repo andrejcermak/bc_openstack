@@ -1,0 +1,6 @@
+---
+cluster:
+  - "coder"
+workspace_name: "workspace"
+form:
+ - cpu
